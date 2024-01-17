@@ -24,6 +24,10 @@ I am a Cloud Architect and DevOps Engineer with 18+ years of experience in IT. I
 - HashiCorp Certified: Terraform Associate
 - VMware Certified Professional VCP/VSP/VTSP on vSphere 4/5/6
 
+### My GitHub Stats
+
+[![Taras's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarasmandryk&show_icons=true&theme=transparent)](
+
 ### Connect with me
 
 [<img align="left" alt="tarasmandryk | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
