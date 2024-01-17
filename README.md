@@ -26,11 +26,14 @@ I am a Cloud Architect and DevOps Engineer with 18+ years of experience in IT. I
 
 ### My GitHub Stats
 
-[![Taras's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarasmandryk&show_icons=true&theme=transparent)](
+[![Taras's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarasmandryk&show_icons=true&theme=transparent&hide=stars,contribs&show=prs_merged,prs_merged_percentage")](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 
 [<img align="left" alt="tarasmandryk | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/tarasmandryk
+
 <!--
 **tarasmandryk/tarasmandryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
